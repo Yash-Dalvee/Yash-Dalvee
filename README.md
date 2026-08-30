@@ -81,12 +81,12 @@
 ## 🚀 Contribution Activity
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph" />
-
+  <img
+    src="https://raw.githubusercontent.com/YASH-DALVEE/YASH-DALVEE/main/game.gif"
+    alt="YASH-DALVEE Contribution Activity"
+    width="100%"
+  />
 </p>
-
----
 
 ## 🔗 Connect With Me
 
