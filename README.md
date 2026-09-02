@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:3b0764,100:7f1d1d&height=230&section=header&text=Yash%20Dalvee&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOC%20L1%20ANALYST%20%7C%20PURPLE%20TEAM%20%7C%20BUG%20BOUNTY&descFontSize=19&descAlignY=58" width="100%" alt="Yash Dalvee Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=WHO-I-AM+%3E+Purple+Teamer+%2B+Bug+Hunter;Exploit+by+Night+%7C+Defend+by+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=WHO-I-AM+%3E+Purple+Teamer+%2B+Bug+BOUNTY;Exploit+by+Night+%7C+Defend+by+Day" alt="Typing SVG" />
 
 </div>
 
